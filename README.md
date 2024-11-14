@@ -1,19 +1,13 @@
-# Template Repository
+# Classic Converter
 
-A short description about this project here.
-
-## How To Use (GUI)
-
-Coming Soon.
+A tool to convert Minecraft pre-classic and classic worlds to a Minecraft indev world or a schematic file
 
 ## How To Use (CLI)
 
-Coming Soon.
+1. Open a terminal
+2. Run `classic_converter -i /path/to/classic_world.mine -f "indev_world"` (Only `.dat` and `.mine` files are accepted)
+3. You now have a converted classic world in the specified format. (File keeps the same name as original)<br>Outputed file would be: `classic_world.mclevel`.
 
 ## Language(s) Used
 
-* \<language> \<version>
-
-# Screen Shots
-
-Coming Soon.
+* Go 1.20
