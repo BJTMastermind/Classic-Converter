@@ -1,6 +1,8 @@
 # Classic Converter
 
-A tool to convert Minecraft pre-classic and classic worlds to a Minecraft indev world or a schematic file
+A tool to convert Minecraft pre-classic and classic worlds to a Minecraft indev world or a schematic file.
+
+The worlds first Minecraft classic converter that doesn't rely on the classic server jar or original class files.
 
 ## How To Build
 
