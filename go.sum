@@ -1,0 +1,13 @@
+github.com/BJTMastermind/Go-MC-Classic-Parser v0.2.2 h1:+x1+wlY6LjKTQIaFI+GglNBV2IEkDXS2hpSrsiLJqUo=
+github.com/BJTMastermind/Go-MC-Classic-Parser v0.2.2/go.mod h1:5TghaecH8aUvBOiJ6YQtFRacYD/5dCz1Pap/dfB8Bv8=
+github.com/BJTMastermind/go-nbt v1.2.4 h1:nI4IhSksJp56ihYPFnl8TjldsHCanvIHaZGnnhQPwfY=
+github.com/BJTMastermind/go-nbt v1.2.4/go.mod h1:yy+x79yZHOM2iNwnp10e/a4yZRSJRvSnYvvicOYRsO4=
+github.com/akamensky/argparse v1.4.0 h1:YGzvsTqCvbEZhL8zZu2AiA5nq805NZh75JNj4ajn1xc=
+github.com/akamensky/argparse v1.4.0/go.mod h1:S5kwC7IuDcEr5VeXtGPRVZ5o/FdhcMlQz4IZQuw64xA=
+github.com/beito123/binary v3.0.1+incompatible h1:GniqmTj6DFBXRhJoOuhPab3EguOKIU6HPyF/0VKo0HI=
+github.com/beito123/binary v3.0.1+incompatible/go.mod h1:dbKbifKzgf/8daS0F4kV7EFiN2lcSQkbTfFsV3yCWtE=
+github.com/jkeys089/jserial v1.0.1 h1:HfeIfj0CrsphI3I5ENhQdZK1UQLda9+a7qrD7Rx5sM4=
+github.com/jkeys089/jserial v1.0.1/go.mod h1:ijizqTMsWLPm4w57A0Fu5D4C7+lvqXlrX8GnITfYl9w=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
